@@ -33,6 +33,7 @@ Analytics for Heroku...
 
 How to architect your Heroku projects...
 
+- `article` [Exploring Microservices Architecure on Heroku](http://blog.codeship.com/exploring-microservices-architecture-on-heroku/) — explores why Heroku eliminates a lot of the tooling you need to worry about when working with microservices.
 - `article` [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) — discusses why Heroku is perfectly suited to building a service-oriented architecture for your projects.
 
 
