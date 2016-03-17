@@ -9,9 +9,12 @@ A curated list of helpful Heroku resources.
 ## Table of Contents
 
 - [Analytics](#analytics)
+- [Architecture](#architecture)
 - [Deployment](#deployment)
 - [Domains](#domains)
 - [Meta](#meta)
+- [Postgres](#postgres)
+- [Scaling](#scaling)
 - [Security](#security)
 - [Toolbelt](#toolbelt)
 - [Goodbye...](#goodbye)
