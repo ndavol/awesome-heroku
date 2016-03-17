@@ -1,12 +1,9 @@
 
 ![](images/banner.png)
 
-# Awesome Heroku [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[<img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />](https://github.com/sindresorhus/awesome)
 
 A curated list of helpful Heroku resources.
-
-
-## Table of Contents
 
 - [Analytics](#analytics)
 - [Architecture](#architecture)
