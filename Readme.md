@@ -11,7 +11,7 @@ A curated list of helpful Heroku resources.
 - [Security](#security)
 
 
-### ![](https://www.dropbox.com/s/3z19t2st7sk9lu6/Screenshot%202016-03-16%2018.58.16.png?dl=0) Security
+## ![](https://www.dropbox.com/s/3z19t2st7sk9lu6/Screenshot%202016-03-16%2018.58.16.png) Security
 
 - [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku), _by Thoughtbot_, walks you through the exact steps to setting up free SSL via Cloudflare.
 
