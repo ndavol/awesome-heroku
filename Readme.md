@@ -21,7 +21,7 @@ A curated list of helpful Heroku resources.
 - [Goodbye...](#goodbye)
 
 
-## <img width="30" height="30" src="images/analytics.png" style="margin-top: 5px" /> Analytics
+## <img width="24" height="24" src="images/analytics.png" /> Analytics
 
 Analytics for Heroku...
 
