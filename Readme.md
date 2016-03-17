@@ -75,6 +75,7 @@ Information about the company itself...
 - `official` [The big kickoff](https://blog.heroku.com/archives/2007/10/30/the_big_kickoff) — the first ever Heroku blog article.
 - `article` [Heroku isn't for idiots](https://www.rdegges.com/2012/heroku-isnt-for-idiots/) — explains Heroku's advantages and why it's not just for side projects.
 - `article` [My Heroku values](https://brandur.org/heroku-values) — a great series of takeaways from [Brandur Leach](https://twitter.com/brandur) when he left Heroku.
+- `talk` [Buildpack Adventure](http://buildpack-adventure.herokuapp.com/) — a cool slideshow about Heroku's buildpacks, and what the open-source community is hacking together with them.
 
 
 ## <img width="24" height="24" src="images/postgres.png" /> Postgres
