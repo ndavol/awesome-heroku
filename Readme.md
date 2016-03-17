@@ -9,6 +9,7 @@ A curated list of helpful Heroku resources.
 ## Table of Contents
 
 - [Deployment](#deployment)
+- [Domains](#domains)
 - [Security](#security)
 - [Toolbelt](#toolbelt)
 
@@ -16,6 +17,12 @@ A curated list of helpful Heroku resources.
 ## Deployment
 
 - `article` [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) — explains how you'd go about automating certain parts of deployment like enabling maintenance mode, copying your database from production to staging, running migrations against staging, etc.
+
+
+## Domains
+
+- `article` [Hosting multiple Heroku apps on a single domain](https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/) — an article on how to share the same domain between multiple Heroku applications.
+- `question` [How do you host multiple heroku apps on a single domain?](http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain) — a StackOverflow question with a few responses to a the common question of how to serve multiple Heroku apps from different paths instead of subdomains.
 
 
 ## Security
