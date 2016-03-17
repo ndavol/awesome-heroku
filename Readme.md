@@ -27,6 +27,7 @@ A curated list of helpful Heroku resources.
 
 - [Official: Toolbelt Download](https://toolbelt.heroku.com/) — where to download the Heroku toolbelt.
 - [heroku-accounts](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
+- [heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
 
 
 ## License
