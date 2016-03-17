@@ -1,7 +1,7 @@
 
 # Awesome Heroku [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![https://d3k90kvix375hb.cloudfront.net/assets/home/hero/startup@2x-7d19c0222639db59ac497178719016583e1c886ac83eff67670d2c7584513620.png]()
+![](https://d3k90kvix375hb.cloudfront.net/assets/home/hero/startup@2x-7d19c0222639db59ac497178719016583e1c886ac83eff67670d2c7584513620.png)
 
 A curated list of helpful Heroku resources.
 
