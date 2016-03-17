@@ -25,6 +25,7 @@ A curated list of helpful Heroku resources.
 
 ## Toolbelt
 
+- [Official: Toolbelt Download](https://toolbelt.heroku.com/) — where to download the Heroku toolbelt.
 - [heroku-accounts](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
 
 
