@@ -8,12 +8,24 @@ A curated list of helpful Heroku resources.
 
 ## Table of Contents
 
+- [Deployment](#deployment)
 - [Security](#security)
+- [Toolbelt](#toolbelt)
+
+
+## Deployment
+
+- [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) — explains how you'd go about automating certain parts of deployment like enabling maintenance mode, copying your database from production to staging, running migrations against staging, etc.
 
 
 ## Security
 
-- [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku), _by Thoughtbot_, walks you through the exact steps to setting up free SSL via Cloudflare.
+- [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku) — walks you through the exact steps to setting up free SSL via Cloudflare.
+
+
+## Toolbelt
+
+- [heroku-accounts](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
 
 
 ## License
