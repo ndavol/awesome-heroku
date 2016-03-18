@@ -49,7 +49,7 @@ Blogs around the internet that often (or exclusively) write about Heroku...
 
 Resources that help with deploying on Heroku...
 
-- `official` [](https://devcenter.heroku.com/articles/preboot) — explains how to use the "Preboot" feature to enable zero-downtime deployments, which can be tricky to get right.
+- `official` [Preboot](https://devcenter.heroku.com/articles/preboot) — explains how to use the "Preboot" feature to enable zero-downtime deployments, which can be tricky to get right.
 - `article` [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) — explains how you'd go about automating certain parts of deployment like enabling maintenance mode, copying your database from production to staging, running migrations against staging, etc.
 - `question` [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) — the answer to a common question about `.gitignore` like functionality.
 
