@@ -13,6 +13,7 @@ A curated list of helpful Heroku resources.
 - [Architecture](#architecture)
 - [Blogs](#blogs)
 - [Deployment](#deployment)
+- [Development](#development)
 - [Domains](#domains)
 - [Meta](#meta)
 - [Postgres](#postgres)
@@ -50,6 +51,11 @@ Resources that help with deploying on Heroku...
 
 - `article` [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) — explains how you'd go about automating certain parts of deployment like enabling maintenance mode, copying your database from production to staging, running migrations against staging, etc.
 - `question` [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) — the answer to a common question about `.gitignore` like functionality.
+
+
+## Development
+
+- `official` [Managing Multiple Environments for an App](https://devcenter.heroku.com/articles/multiple-environments) — a good primer on how to think about managing the different pieces of each environment.
 
 
 ## <img width="24" height="24" src="images/domains.png" /> Domains
