@@ -49,6 +49,7 @@ Blogs around the internet that often (or exclusively) write about Heroku...
 
 Resources that help with deploying on Heroku...
 
+- `official` [](https://devcenter.heroku.com/articles/preboot) — explains how to use the "Preboot" feature to enable zero-downtime deployments, which can be tricky to get right.
 - `article` [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) — explains how you'd go about automating certain parts of deployment like enabling maintenance mode, copying your database from production to staging, running migrations against staging, etc.
 - `question` [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) — the answer to a common question about `.gitignore` like functionality.
 
@@ -89,6 +90,7 @@ Information about the company itself...
 Anything dealing with [Heroku Postgres](https://www.heroku.com/postgres)...
 
 - `official` [Heroku Postgres](https://www.heroku.com/postgres) — the landing page explaining with it is.
+- `plugin` [heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) — a buildpack that allows for transaction pooling using [`stunnel`](https://www.stunnel.org/index.html) and [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) to avoid hitting connection limits.
 
 
 ## <img width="24" height="24" src="images/redis.png" /> Redis
