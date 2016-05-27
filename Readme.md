@@ -73,6 +73,7 @@ Tips for using custom domain names on Heroku...
 General resources that cover lots of different things about Heroku...
 
 - `book` [The Heroku Hacker's Guide](http://www.theherokuhackersguide.com/) — an ebook that covers a lot of the basics in maintaining and scaling a project on Heroku.
+- `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
 
 
 ## <img width="21" height="21" src="images/meta.png" /> Meta
