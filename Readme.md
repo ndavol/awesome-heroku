@@ -9,18 +9,18 @@
 
 A curated list of helpful Heroku resources.
 
-- [Analytics](#analytics)
-- [Architecture](#architecture)
-- [Blogs](#blogs)
-- [Deployment](#deployment)
-- [Development](#development)
-- [Domains](#domains)
-- [Meta](#meta)
-- [Postgres](#postgres)
-- [Scaling](#scaling)
-- [Security](#security)
-- [Toolbelt](#toolbelt)
-- [Goodbye...](#goodbye)
+- [Analytics](#-analytics)
+- [Architecture](#-architecture)
+- [Blogs](#-blogs)
+- [Deployment](#-deployment)
+- [Development](#-development)
+- [Domains](#-domains)
+- [Meta](#-meta)
+- [Postgres](#-postgres)
+- [Scaling](#-scaling)
+- [Security](#-security)
+- [Toolbelt](#-toolbelt)
+- [Goodbye...](#-goodbye)
 
 
 ## <img width="21" height="21" src="images/analytics.png" /> Analytics
